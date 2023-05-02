@@ -1,0 +1,38 @@
+body
+{
+    font-family: 'Pinyon Script', cursive;
+    background: pink;
+}
+
+.header_div
+{
+    background: white;
+    color: aquamarine;
+}
+
+.header_div p{
+    font-family: 'Cookie', cursive;
+    color: aqua;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+font-family: 'Monoton', cursive;
+margin-top: 30px;
+width: bolder;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+
+copy_right_footer {
+    position: fixed;
+    color: #999;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px greenyellow;
+}
